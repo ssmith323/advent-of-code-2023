@@ -1,0 +1,263 @@
+{
+  "meta": { "today": "2022-12-08T21:52:06.201Z" },
+  "days": {
+    "1": {
+      "part1": "0.247 seconds",
+      "part2": "0.23 seconds",
+      "tests": {
+        "All files": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part1.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part2.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "util.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        }
+      }
+    },
+    "2": {
+      "part1": "0.225 seconds",
+      "part2": "0.216 seconds",
+      "tests": {
+        "All files": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "constant.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part1.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part2.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "util.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        }
+      }
+    },
+    "3": {
+      "part1": "0.3 seconds",
+      "part2": "0.226 seconds",
+      "tests": {
+        "All files": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "letters.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part1.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part2.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "util.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        }
+      }
+    },
+    "4": {
+      "part1": "0.236 seconds",
+      "part2": "0.228 seconds",
+      "tests": {
+        "All files": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part1.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part2.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "util.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        }
+      }
+    },
+    "5": {
+      "part1": "0.232 seconds",
+      "part2": "0.224 seconds",
+      "tests": {
+        "All files": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "parser.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part1.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part2.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        }
+      }
+    },
+    "6": {
+      "part1": "0.229 seconds",
+      "part2": "0.225 seconds",
+      "tests": {
+        "All files": {
+          "statement": 95,
+          "branch": 100,
+          "functions": 100,
+          "lines": 94
+        },
+        "part1.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part2.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "util.js": {
+          "statement": 87,
+          "branch": 100,
+          "functions": 100,
+          "lines": 85
+        }
+      }
+    },
+    "7": {
+      "part1": "0.233 seconds",
+      "part2": "0.228 seconds",
+      "tests": {
+        "All files": {
+          "statement": 97,
+          "branch": 100,
+          "functions": 100,
+          "lines": 97
+        },
+        "part1.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part2.js": {
+          "statement": 93,
+          "branch": 100,
+          "functions": 100,
+          "lines": 92
+        },
+        "util.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        }
+      }
+    },
+    "8": {
+      "part1": "0.358 seconds",
+      "part2": "0.231 seconds",
+      "tests": {
+        "All files": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "check.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part1.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "part2.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        },
+        "util.js": {
+          "statement": 100,
+          "branch": 100,
+          "functions": 100,
+          "lines": 100
+        }
+      }
+    }
+  }
+}
