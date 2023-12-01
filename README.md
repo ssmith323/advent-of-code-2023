@@ -1,7 +1,7 @@
 # [Advent of Code 2022](https://adventofcode.com/2022)
 
-[![Tests](https://github.com/ssmith323/advent-of-code-2022/actions/workflows/test.yml/badge.svg)](https://github.com/ssmith323/advent-of-code-2022/actions/workflows/test.yml)
-[![Lint](https://github.com/ssmith323/advent-of-code-2022/actions/workflows/lint.yml/badge.svg)](https://github.com/ssmith323/advent-of-code-2022/actions/workflows/lint.yml)
+[![Tests](https://github.com/ssmith323/advent-of-code-2023/actions/workflows/test.yml/badge.svg)](https://github.com/ssmith323/advent-of-code-2023/actions/workflows/test.yml)
+[![Lint](https://github.com/ssmith323/advent-of-code-2023/actions/workflows/lint.yml/badge.svg)](https://github.com/ssmith323/advent-of-code-2023/actions/workflows/lint.yml)
 
 ## Days
 
