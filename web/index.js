@@ -1,8 +1,9 @@
-'use strict';
-(function () {
-  fetch('./output.json')
-    .then((response) => response.json())
-    .then(
-      (json) => (document.getElementById('id').innerText = JSON.stringify(json))
-    );
-})();
+'use strict'
+;(function () {
+  // fetch('./output.json', { mode: 'no-cors' })
+  //   .then((response) => response.json())
+  //   .then(
+  document.getElementById('id').innerText = JSON.stringify(output)
+  // )
+  // .catch((e) => console.error(e))
+})()
